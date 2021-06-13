@@ -1,7 +1,7 @@
 ### Director of Analytics
 I lead a team of engineers that develop data driven solutions
 
-
+<a href="https://www.linkedin.com/in/jeremy-yeamans-a8193976/" target="_blank"><img align="left" alt="Jeremy Y | LinkedIn" width="22px" src="https://github.com/jehremmy/jehremmy/blob/main/linkedin.png" />
 
 <!--
 **jehremmy/jehremmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
