@@ -1,4 +1,7 @@
-### Hi there 👋
+### Director of Analytics
+I lead a team of engineers that develop data driven solutions
+
+
 
 <!--
 **jehremmy/jehremmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
